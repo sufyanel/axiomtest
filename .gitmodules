@@ -2,3 +2,6 @@
 	path = sufyanel/submodule
 	url = git@github.com:sufyanel/submodule.git
 	branch = master
+[submodule "submodule"]
+	path = submodule
+	url = git@github.com:sufyanel/submodule.git
